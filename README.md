@@ -54,19 +54,6 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muqadas410&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muqadas410&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqadas410&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 📧 **Email:**  
