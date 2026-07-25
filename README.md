@@ -21,10 +21,12 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 
 ## 🚀 Tech Stack & Tools
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,django,python" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,flask,supabase,postgres,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flask,supabase,postgres,git,github,vscode,postman,figma" />
 </p>
 
 ---
