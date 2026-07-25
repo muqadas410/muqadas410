@@ -12,7 +12,7 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 
 - 🎓 Computer Science Graduate from the **University of Gujrat**
 - 💼 Currently working as a **Website Developer** at **BEBOP Korean Mexican Grill**
-- 🚀 Frontend Developer Intern at **Gaddr Search & Me (Sweden)**
+- 🚀 Frontend Developer Intern at **Gaddr Search & Me (Sweden, Remote)**
 - 🌱 Currently learning **Next.js**, advanced **React**, and frontend architecture
 - 💻 Passionate about writing clean, maintainable, and reusable code
 - 🤝 Open to Frontend Developer opportunities and open-source collaboration
@@ -29,12 +29,12 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 
 ## 💼 Current Experience
 
-### 💻 Website Developer
+### 💻 Website Developer (Remote)
 **BEBOP Korean Mexican Grill**
 - Developing and maintaining responsive website pages using modern web technologies.
 - Collaborating with the development team to improve website functionality and user experience.
 
-### 🌍 Frontend Developer Intern
+### 🌍 Frontend Developer Intern (Remote)
 **Gaddr Search & Me (Sweden)**
 - Building responsive UI components.
 - Working in a remote agile team to develop user-focused web applications.
